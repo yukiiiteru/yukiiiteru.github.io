@@ -1,8 +1,8 @@
 ---
 layout: default
+title: About Yukiteru
+description: 我很可爱，请给我打钱
 ---
-
-# About
 
 好耶! 是 Yukiteru!
 
@@ -81,4 +81,4 @@ layout: default
 
 但我还是觉得这首歌最符合我现在的心境吧
 
-好了，碎碎念结束，放下酒杯继续努力吧！
+好了，碎碎念结束，放下酒杯继续努力吧 (x)！
