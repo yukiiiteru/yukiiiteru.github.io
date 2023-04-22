@@ -2,7 +2,7 @@
 layout: default
 ---
 
-好耶! 是 Yukiteru 的博客！
+# 好耶! 是 Yukiteru 的博客
 
 ## Posts
 
@@ -11,4 +11,3 @@ layout: default
 ## 碎碎念
 
 - [About Yukiteru](about.md)
-
