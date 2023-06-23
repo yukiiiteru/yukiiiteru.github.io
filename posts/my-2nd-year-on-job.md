@@ -140,5 +140,5 @@ description: 字节一年，人间三年
 >
 > 我奋斗了 18 年，不是为了和你一起喝咖啡。
 
-[1]: posts/18-years-for-coffee.md
-[2]: posts/18-years-not-for-coffee.md
+[1]: 18-years-for-coffee.md
+[2]: 18-years-not-for-coffee.md
