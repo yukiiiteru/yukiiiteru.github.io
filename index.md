@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Yukiteru 的碎碎念
-description: 想当一个技术博主 qwq
+description: 想当一个技术博主
 ---
 
 好耶! 是 Yukiteru 的博客
