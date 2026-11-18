@@ -8,6 +8,8 @@ description: 想当一个技术博主
 
 ## Posts
 
+- [(2026.11.17) Yukiteru 的 2026 年度总结](posts/2026-summary.md)
+- [(2026.02.23) Yukiteru 的 2025 年度总结](posts/2025-summary.md)
 - [(2025.08.24) 在人间的第十二年](posts/my-4th-year-on-job.md)
 - [(2025.01.03) Yukiteru 的 2024 年度总结](posts/2024-summary.md)
 - [(2024.07.31) 在人间的第九年](posts/my-3rd-year-on-job.md)
